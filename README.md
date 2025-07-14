@@ -2,7 +2,7 @@
 > `whoami`
 > IAM *@Dev.ADAMAS*
 
-![HOME](./200.webp)
+<img src="./200.webp" width="100%" height="250px"> <br>
 ### *hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> there, l'm `Dev_ADAMAS`.*
 
   ## A *Junior* Full-Stack Web Developer
