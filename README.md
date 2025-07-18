@@ -44,7 +44,7 @@ Building `Secured` and `Simple` `aesthetic` `user friendly` `web applications`, 
 ![](https://img.shields.io/badge/Web2.0-ECMAScript-yellow)
 ![](https://img.shields.io/badge/Web2.0-Bootstrap5-blue)
 ![](https://img.shields.io/badge/Web2.0-ES-JQuery-yellow)
-![](https://img.shields.io/badge/Web2.0-PHP-blue)
+![](https://img.shields.io/badge/Web2.0-PHP8-blue)
 ![](https://img.shields.io/badge/Web2.0-MySQL-orange)
 
 ## Technologies&Softwares
