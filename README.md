@@ -67,7 +67,7 @@ Building `Secured` and `Simple` `aesthetic` `user friendly` `web applications`, 
 - `Bitbucket`
 - `Gitlab`
 
-[![/dev/null activity](https://dev-null.sh/@dev-adamas/graph.svg)](https://dev-null.sh/@dev-adamas)
+[![/dev/null activity](https://dev-null.sh/@dev-adamas/graph.svg?theme=dark)](https://dev-null.sh/@dev-adamas)
 
 
 
